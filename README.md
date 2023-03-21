@@ -1,26 +1,28 @@
-# Project 2 - Flixter Clone
+# Project 3 - Flixter Clone Part 2
 
 Submitted by: Vaibhav Rajani
 
-Flixter CLone is a movie browsing app that displays a list of movies and movie details.
+Flixter Clone is an app that displays a list of movies and it's posters. 
 
-Time spent: 7 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Your app should work for any screen size and orientation using AutoLayout constraints
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
+ 
+The following **optional** features are implemented:
+
+- [x] Allow users to scroll when context items are off-screen (table view implemention)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/jtg9ZG9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
